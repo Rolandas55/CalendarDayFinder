@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E66EC090-1331-405E-98A4-3CF769DBB9F4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC465CA4-6F8D-439F-AB91-B4072C9F4635"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CalendarDayFinder/Controller/AppearanceViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "closItemTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "40026EE6-91C8-4099-84D8-956F300C5EDA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CalendarDayFinder/Controller/AppearanceViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "AppearanceViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "40026EE6-91C8-4099-84D8-956F300C5EDA - 5322632b9f17e02c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalendarDayFinder.AppearanceViewController.setLabelText() -&gt; ()"
+                  moduleName = "CalendarDayFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kraujalis.rolandas/Documents/Bootcamp/CalendarDayFinder/CalendarDayFinder/Controller/AppearanceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "101">
+               </Location>
+               <Location
+                  uuid = "40026EE6-91C8-4099-84D8-956F300C5EDA - 5322632b9f17e0cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalendarDayFinder.AppearanceViewController.setLabelText() -&gt; ()"
+                  moduleName = "CalendarDayFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kraujalis.rolandas/Documents/Bootcamp/CalendarDayFinder/CalendarDayFinder/Controller/AppearanceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "322BCBE0-3D89-4ECB-A6D2-6F8679C96C2C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CalendarDayFinder/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
