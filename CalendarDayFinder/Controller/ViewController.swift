@@ -88,7 +88,11 @@ class ViewController: UIViewController {
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         if segue.identifier == "info" {
             guard let vc = segue.destination as? InfoViewController else { return }
-            vc.infoVal = "This is Calendar Day Finder App"
+            if resultLabel.text != "Result"{
+                vc.infoVal = resultLabel.text
+            } else {
+                vc.infoVal = "Select a date :)"
+            }
             vc.descVal = "You can enter day, month and year. After pressing find button application prints what day of the week it is"
         }
         // Get the new view controller using segue.destination.
